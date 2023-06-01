@@ -1,6 +1,5 @@
 
-sunset, 20
-Portugal
+sunset, endpoint developer/founder
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⣤⣾⡇⠀⠀⠀
