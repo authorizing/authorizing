@@ -1,4 +1,4 @@
-##about me
+## about me
 ```
 alias: sunset
 main programming languages: C/C++/C#/Lua
@@ -6,7 +6,7 @@ origin country: Portugal
 current country: United Kingdom
 ```
 
-##a bird with some shit in its beak
+## a bird with some shit in its beak
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⣤⣾⡇⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣈⡛⣿⡟⠁⢀⣀⠀
