@@ -1,6 +1,12 @@
+##about me
+```
+alias: sunset
+main programming languages: C/C++/C#/Lua
+origin country: Portugal
+current country: United Kingdom
+```
 
-sunset, endpoint developer/founder
-
+##a bird with some shit in its beak
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⣤⣾⡇⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣈⡛⣿⡟⠁⢀⣀⠀
