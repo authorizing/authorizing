@@ -2,11 +2,10 @@
 ```
 alias: sunset
 main programming languages: C/C++/C#/Lua
-origin country: Portugal
-current country: United Kingdom
+country: Portugal
 ```
 
-## a bird with some shit in its beak
+## a cool bird to look at
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⣤⣾⡇⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣈⡛⣿⡟⠁⢀⣀⠀
