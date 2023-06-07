@@ -3,6 +3,7 @@
 alias: sunset
 age: 20
 software and reverse engineer
+Jobs/queries: fzxnha@protonmail.com
 ```
 
 ## a cool bird to look at
@@ -22,5 +23,3 @@ software and reverse engineer
 ⠀⠘⢿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-
-inactive for the past year
