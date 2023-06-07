@@ -2,7 +2,6 @@
 ```
 alias: sunset
 main programming languages: C/C++/C#/Lua
-country: Portugal
 ```
 
 ## a cool bird to look at
