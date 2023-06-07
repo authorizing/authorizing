@@ -1,7 +1,8 @@
 ## about me
 ```
 alias: sunset
-main programming languages: C/C++/C#/Lua
+age: 20
+software and reverse engineer
 ```
 
 ## a cool bird to look at
