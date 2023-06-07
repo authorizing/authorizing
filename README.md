@@ -1,6 +1,5 @@
 ## about me
 ```
-alias: sunset
 age: 20
 software and reverse engineer
 jobs/queries: fzxnha@protonmail.com
