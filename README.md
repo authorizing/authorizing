@@ -33,11 +33,5 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/authorizing/authorizing/output/snake.svg" alt="Snake Animation" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/authorizing/count.svg" alt="Profile Counter" />
 </div>
