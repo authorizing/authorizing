@@ -27,7 +27,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/authorizing/authorizing/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/authorizing/authorizing/output/snake.svg" alt="Snake animation" />
 
 ###
 
