@@ -1,6 +1,3 @@
-# About Me
-**Business E-mail:** [business@hora.lol](mailto:business@hora.lol)
-
 ---
 
 <div align="center">
