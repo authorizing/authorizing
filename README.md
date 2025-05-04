@@ -31,7 +31,7 @@
 
 ###
 
-![Snake animation](https://github.com/authorizing/authorizing/blob/main/workflows/snake.yml)
+![Snake animation](https://github.com/authorizing/authorizing/blob/output/snake.svg)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/authorizing/count.svg" alt="Profile Counter" />
